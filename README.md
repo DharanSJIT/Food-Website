@@ -52,7 +52,7 @@ A modern, responsive restaurant website built with HTML5, CSS3, and JavaScript. 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/restaurant-website.git
+   git clone https://github.com/DharanSJIT/Food-Website.git
    ```
 
 2. **Navigate to the project directory**
